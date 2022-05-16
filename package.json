@@ -1,0 +1,19 @@
+{
+  "name": "calander",
+  "version": "0.0.1",
+  "description": "Responsive calendar example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminbancroft/calendar.git"
+  },
+  "author": "Benjamin Bancroft <benjamin.bancroft@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminbancroft/calendar/issues"
+  },
+  "homepage": "https://github.com/benjaminbancroft/calendar#readme"
+}
